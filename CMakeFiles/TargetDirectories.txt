@@ -1,0 +1,4 @@
+/Users/ozanunsal/Desktop/custom_socket/CMakeFiles/rebuild_cache.dir
+/Users/ozanunsal/Desktop/custom_socket/CMakeFiles/edit_cache.dir
+/Users/ozanunsal/Desktop/custom_socket/CMakeFiles/client.dir
+/Users/ozanunsal/Desktop/custom_socket/CMakeFiles/server.dir
